@@ -1,2 +1,2 @@
-# ffmpeg_example
-ffmpeg example cmake 工程
+# ffmpeg_mp4_demo
+ffmpeg mp4 demo
